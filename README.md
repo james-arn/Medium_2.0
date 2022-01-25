@@ -1,5 +1,5 @@
 ## Project Description
-- Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailwind CSS 3.0, Sanity CMS, Typescript. Libaries: React-portable-text, React Hook Form.
+Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailwind CSS 3.0, Sanity CMS, Typescript. Libaries: React-portable-text, React Hook Form.
 
 ## How to Install & Run or View Project
 **Deployed app**
