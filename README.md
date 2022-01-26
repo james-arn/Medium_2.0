@@ -7,5 +7,6 @@ Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailw
 - Visit for back-end deployment (protected): https://sanity-portfolio-ja.sanity.studio/desk
 
 **Locally** 
-- Next.js front-end, please run - npm run dev
-- Sanity CMS back-end, please run - sanity start
+- run npm i to install dependicies
+- Next.js front-end, please run - npm run dev - from root folder
+- Sanity CMS back-end, please run - sanity start - from 'sanitybuild' folder 
