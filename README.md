@@ -3,12 +3,10 @@
 ## Project Description
 Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailwind CSS 3.0, Sanity CMS, Typescript. Libaries: React-portable-text, React Hook Form.
 
-🔸️  Next.js 
-- Incremental Static Regeneration (ISR) & Server-side rendering (SSR)  to speed up page loading & optimise the caching of pages
-- Fetch CMS data into a Next.js app using efficient Modern Data Fetching techniques
-🔸️ Setup a Content Management System (Sanity CMS) to manage structured data
-🔸️ Styled a mobile-first responsive UI with Tailwind CSS
-🔸️ Used TypeScript for writing robust code & reducing bugs  
+- Next.js - Incremental Static Regeneration (ISR) & Server-side rendering (SSR)  to speed up page loading & optimise the caching of pages
+- Setup a Content Management System (Sanity CMS) to manage structured data
+- Styled a mobile-first responsive UI with Tailwind CSS
+- Used TypeScript for writing robust code & reducing bugs  
 
 ## How to Install & Run or View Project
 **Deployed app**
