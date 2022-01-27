@@ -3,10 +3,10 @@
 ## Project Description
 Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailwind CSS 3.0, Sanity CMS, Typescript. Libaries: React-portable-text, React Hook Form.
 
-- Next.js - Incremental Static Regeneration (ISR) & Server-side rendering (SSR)  to speed up page loading & optimise the caching of pages
+- Next.js - Incremental Static Regeneration (ISR) & Server-side rendering (SSR)  to speed up page loading & optimise the caching of pages.
 - Setup a Content Management System (Sanity CMS) to manage structured data. Includes comment validation, image handling, version control and live user updates.
-- Styled a mobile-first responsive UI with Tailwind CSS
-- Used TypeScript for writing robust code & reducing bugs  
+- Styled a mobile-first responsive UI with Tailwind CSS.
+- Used TypeScript for writing robust code & reducing bugs.
 
 ## How to Install & Run or View Project
 **Deployed app**
@@ -14,6 +14,6 @@ Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailw
 - Visit for back-end deployment (protected): https://sanity-portfolio-ja.sanity.studio/desk
 
 **Locally** 
-- run npm i to install dependicies
-- Next.js front-end, please run - npm run dev - from root folder
-- Sanity CMS back-end, please run - sanity start - from 'sanitybuild' folder 
+- run npm i to install dependicies.
+- Next.js front-end, please run - npm run dev - from root folder.
+- Sanity CMS back-end, please run - sanity start - from 'sanitybuild' folder.
