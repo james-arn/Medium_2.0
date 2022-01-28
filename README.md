@@ -5,7 +5,7 @@ Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailw
 
 - Next.js - Incremental Static Regeneration (ISR) & Server-side rendering (SSR)  to speed up page loading & optimise the caching of pages.
 - Setup a Content Management System (Sanity CMS) to manage structured data. Includes comment validation, image handling, version control and live user updates.
-- Styled a mobile-first responsive UI with Tailwind CSS.
+- Styled a mobile-first responsive UI with Tailwind CSS. 
 - Used TypeScript for writing robust code & reducing bugs.
 
 ## How to Install & Run or View Project
