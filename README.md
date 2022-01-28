@@ -1,4 +1,9 @@
+**Front-end**
 ![image](https://user-images.githubusercontent.com/90621208/151325852-b714a69e-14ac-4110-b14f-9807246e9007.png)
+
+**Back-end CMS system**
+![image](https://user-images.githubusercontent.com/90621208/151543339-d700c646-5240-4a02-a9a0-608dac764d85.png)
+
 
 ## Project Description
 Rebuilt Medium as a clone for educational purposes. Using: Next.js, React, tailwind CSS 3.0, Sanity CMS, Typescript. Libaries: React-portable-text, React Hook Form.
